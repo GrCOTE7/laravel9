@@ -11,7 +11,7 @@
     <body class="antialiased">
         <main class="m-6 text-2xl">
             Oki
-            <hr class="my-5">
+            <hr class="my-3">
             {{ $data }}
         </main>
     </body>
